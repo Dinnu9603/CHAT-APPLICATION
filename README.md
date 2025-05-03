@@ -15,3 +15,10 @@ This project involved the development of a real-time chat application using WebS
 The frontend was developed using web technologies such as HTML, CSS, and JavaScript, while the backend was implemented using Node.js with Express.js, and Socket.IO was used for managing real-time, bidirectional communication. The application supports dynamic chat rooms or group messaging (optional) and includes basic user interaction features such as message input, message broadcasting, and system notifications (like user joined/left alerts).
 
 This project helped demonstrate an understanding of real-time web application development, event-driven programming, and full-stack deployment.
+
+
+
+Output:
+![Image](https://github.com/user-attachments/assets/b62a8f1e-9a3b-4eca-afcb-15f6e9c750ad)
+
+![Image](https://github.com/user-attachments/assets/c30b8c5b-9f17-4801-8ac0-9f75f3da90a8)
