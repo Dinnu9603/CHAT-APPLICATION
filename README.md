@@ -19,6 +19,6 @@ This project helped demonstrate an understanding of real-time web application de
 
 
 Output:
-![Image](https://github.com/user-attachments/assets/b62a8f1e-9a3b-4eca-afcb-15f6e9c750ad)
+![Image](https://github.com/user-attachments/assets/dcf9b981-b941-49cf-9929-3d8a583debd9)
 
-![Image](https://github.com/user-attachments/assets/c30b8c5b-9f17-4801-8ac0-9f75f3da90a8)
+![Image](https://github.com/user-attachments/assets/6ea35203-86f7-47e5-a1b6-13c1e8203cc1)
